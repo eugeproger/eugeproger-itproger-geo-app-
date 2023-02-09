@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "23532480542",
+    "project_id": "eugeproger-itproger-geo-app",
+    "storage_bucket": "eugeproger-itproger-geo-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:23532480542:android:59aa78f8d211900482260f",
+        "android_client_info": {
+          "package_name": "com.itproger.itprogergeoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "23532480542-752otfn56esvravlna3a65oqthkhs755.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.itproger.itprogergeoapp",
+            "certificate_hash": "8bafbfa2f89294b578a6c7425add13d0a87c5189"
+          }
+        },
+        {
+          "client_id": "23532480542-uvngmpk57hv05kfki81c1ue6iohdat8c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD45T4CTnCz28Z7rbqT_E0emOsO2zFg9MA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "23532480542-uvngmpk57hv05kfki81c1ue6iohdat8c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
