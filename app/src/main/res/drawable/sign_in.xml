@@ -8,7 +8,7 @@
                 android:color="@color/sign_in">
             </solid>
             <stroke
-                android:color="@color/sign_in_stroke"
+                android:color="#D86060"
                 android:width="2dp">
             </stroke>
         </shape>

@@ -65,10 +65,11 @@
             android:layout_height="wrap_content"
             android:layout_marginEnd="6dp"
             android:layout_weight="1"
+            android:background="@drawable/sign_in"
+            app:backgroundTint="@null"
             android:fontFamily="@font/montserrat"
             android:text="@string/sign_in"
-            android:textColor="@color/white"
-            android:background="@drawable/sign_in"/>
+            android:textColor="@color/white" />
 
         <Button
             android:id="@+id/sing_up"
@@ -79,6 +80,7 @@
             android:fontFamily="@font/montserrat"
             android:text="@string/sign_up"
             android:textColor="@color/white"
-            android:background="@drawable/sing_up"/>
+            android:background="@drawable/sing_up"
+            app:backgroundTint="@null"/>
     </LinearLayout>
 </RelativeLayout>
