@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">itProger Geo App</string>
+    <string name="app_in_name">itProger</string>
+    <string name="app_name_after">Register App</string>
+    <string name="text_bottom">Sign in to your account</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_up">Sign Up</string>
 </resources>
