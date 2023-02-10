@@ -16,7 +16,7 @@
         <com.rengwuxian.materialedittext.MaterialEditText
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/email_filed"
+            android:id="@+id/email_field"
             android:hint="@string/email"
             android:inputType="textEmailAddress"
             android:text=""
@@ -30,7 +30,7 @@
         <com.rengwuxian.materialedittext.MaterialEditText
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/password_filed"
+            android:id="@+id/password_field"
             android:hint="@string/password"
             android:inputType="textPassword"
             android:text=""
@@ -44,7 +44,7 @@
         <com.rengwuxian.materialedittext.MaterialEditText
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/name_filed"
+            android:id="@+id/name_field"
             android:hint="@string/enter_name"
             android:inputType="text"
             android:text=""
@@ -59,7 +59,7 @@
         <com.rengwuxian.materialedittext.MaterialEditText
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/phone_filed"
+            android:id="@+id/phone_field"
             android:hint="@string/phone_number"
             android:inputType="phone"
             android:text=""
