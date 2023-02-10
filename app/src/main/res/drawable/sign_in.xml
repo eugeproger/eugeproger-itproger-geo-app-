@@ -4,13 +4,10 @@
 
     <item>
         <shape android:shape="rectangle">
-            <solid
-                android:color="@color/sign_in">
-            </solid>
-            <stroke
-                android:color="#D86060"
-                android:width="2dp">
-            </stroke>
+            <solid android:color="@color/sign_in"/>
+            <stroke android:color="#D86060"
+                android:width="2dp"/>
+            <corners android:radius="8dp"/>
         </shape>
     </item>
 </ripple>
